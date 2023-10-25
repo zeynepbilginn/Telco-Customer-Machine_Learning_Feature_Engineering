@@ -31,7 +31,7 @@
 • Churn: Whether customer uses (Yes or No)  
 
 ## Libraries
-• pandas
+• pandas  
 • numpy  
 • scikit-learn  
 • matplotlib  
